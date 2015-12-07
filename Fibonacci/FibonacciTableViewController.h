@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FibonacciTableViewController.h
 //  Fibonacci
 //
 //  Created by Joffrey Mann on 12/7/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FibonacciTableViewController : UITableViewController
 
 @end
-
